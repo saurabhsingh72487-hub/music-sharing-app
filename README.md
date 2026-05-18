@@ -12,7 +12,7 @@ A full-stack music sharing platform built with Next.js, Express.js, MongoDB, and
 * Responsive frontend UI
 * Express backend API
 
----
+--
 
 # Tech Stack
 
